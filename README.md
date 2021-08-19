@@ -11,7 +11,7 @@
  
 <div> 
   
-  ![Snake animation](https://github.com/JLowborn/JLowborn/blob/output/github-user-contribution.svg)
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
