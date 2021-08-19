@@ -13,7 +13,7 @@
   
   ##
  
-<div style="text-align: center"> 
+<div> 
   
   ![Snake animation](https://github.com/JLowborn/JLowborn/blob/output/github-contribution-grid-snake.svg)
   
