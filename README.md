@@ -1,4 +1,4 @@
-<div>
+<div style="display: inline_block">
   <a href="https://github.com/JLowborn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JLowborn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JLowborn&layout=compact&langs_count=7&theme=dracula"/>
