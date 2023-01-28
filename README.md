@@ -8,6 +8,8 @@
   <img src="https://img.shields.io/github/last-commit/JLowborn/JLowborn" alt="JLowborn" />
 </p>
 
+<h2>About me :man_technologist:</h2>
+
 ```python
 JLowborn: Dict[str, List[str]] = {
     "location": ["Sao Paulo", "Brazil"],
@@ -26,23 +28,27 @@ JLowborn: Dict[str, List[str]] = {
   <img src="https://github.com/JLowborn/JLowborn/blob/master/assets/rick.gif" />
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JLowborn&theme=midnight-purple&date_format=j%20M%5B%20Y%5D&fire=D13491&stroke=D13491&ring=D13491&sideNums=D13491&currStreakNum=D13491&sideLabels=D13491&currStreakLabel=D13491)](https://git.io/streak-stats)[Stats]
+<h2>My Stats :fire:</h2>
 
-<h2 align="center">Technologies :computer:</h3>
-<p align="center">
-  <img alt="React" src="https://img.shields.io/badge/-C%20Lang-810851?style=flat-square&logo=c&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-810851?style=flat-square&logo=python&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/-PHP-810851?style=flat-square&logo=php&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-C%20Sharp-810851?style=flat-square&logo=csharp&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-810851?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-810851?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-810851?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Shell" src="https://img.shields.io/badge/-Shell-810851?style=flat-square&logo=shell&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-810851?style=flat-square&logo=Node.js&logoColor=white" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JLowborn&theme=midnight-purple&date_format=j%20M%5B%20Y%5D&fire=D13491&stroke=D13491&ring=D13491&sideNums=D13491&currStreakNum=D13491&sideLabels=D13491&currStreakLabel=D13491)](https://git.io/streak-stats)
+
+<h2>Technologies :computer:</h3>
+<p>
+  <img alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width=40/>
+  <img alt="C" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width=40/>
+  <img alt="CSharp" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width=40/>
+  <img alt="PHP" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width=40/>
+  <img alt="Docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width=40/>
+  <img alt="MySQL" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width=40/>
+  <img alt="HTML5" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width=40/>
+  <img alt="Git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width=40/>
+  <img alt="Bash" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width=40/>
+  <img alt="MongoDB" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width=40/>
+  <img alt="Oracle Cloud" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width=40/>
 </p>
 
-<h2 align="center">Let's Connect :coffee:</h2></a>
-<p align="center">
-  <a href="https://github.com/JLowborn"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/carlosjesus46/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+<h2>Let's Connect :coffee:</h2></a>
+<p>
+  <a href="https://github.com/JLowborn"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width=40/></a>
+  <a href="https://www.linkedin.com/in/carlosjesus46/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width=40/></a>
 </p>
