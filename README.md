@@ -25,7 +25,7 @@ JLowborn: Dict[str, List[str]] = {
 ```
 
 <p align="center">
-  <img src="https://github.com/JLowborn/JLowborn/blob/master/assets/rick.gif" />
+  <img src="https://github.com/JLowborn/JLowborn/blob/main/assets/rick.gif" />
 </p>
 
 <h2>My Stats :fire:</h2>
