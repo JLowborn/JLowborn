@@ -52,3 +52,7 @@ JLowborn: Dict[str, List[str]] = {
   <a href="https://github.com/JLowborn"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width=40/></a>
   <a href="https://www.linkedin.com/in/carlosjesus46/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width=40/></a>
 </p>
+
+<p align="center">
+  <img src="https://github.com/JLowborn/JLowborn/blob/main/assets/hacker.gif" width=1000>
+</p>
