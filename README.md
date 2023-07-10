@@ -13,13 +13,12 @@
 ```python
 JLowborn: Dict[str, List[str]] = {
     "location": ["Sao Paulo", "Brazil"],
-    "contact": ["wjunior50@gmail.com"],
-    "collaborations": ["Pentesting", "Security Research"],
+    "collaborations": ["Pentesting", "Security Research", "Red Teaming"],
     "working_on": ["Building a career"],
-    "learning": ["TDD with Python", "Active Directory Pentesting", 
-        "Mobile Pentesting"],
+    "learning": ["Active Directory Pentesting", "Mobile Pentesting",
+        "Reverse Enginnering"],
     "ask_me_about": ["Cyberpunk Culture", "Programming", "Darknet Diaries",
-        "Tech", "Digital Warfare", "Crypto", "Music"],
+        "Tech", "Digital Warfare", "Crypto", "Music", "Hacking", "OSINT"],
     "hobbies": ["Gaming", "Studying", "Reading", "Teaching"],
 }
 ```
