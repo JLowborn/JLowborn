@@ -14,12 +14,12 @@
 JLowborn: Dict[str, List[str]] = {
     "location": ["Sao Paulo", "Brazil"],
     "collaborations": ["Pentesting", "Security Research", "Red Teaming"],
-    "working_on": ["Building a career"],
+    "working_on": ["Hacking The Planet"],
     "learning": ["Active Directory Pentesting", "WEB/API Pentesting",
         "Exploit Development"],
     "ask_me_about": ["Cyberpunk Culture", "Programming", "Darknet Diaries",
         "Tech", "Digital Warfare", "Crypto", "Music", "Hacking", "OSINT"],
-    "hobbies": ["Gaming", "Studying", "Reading", "Teaching"],
+    "hobbies": ["Gaming", "Studying", "Reading", "Music"],
 }
 ```
 
