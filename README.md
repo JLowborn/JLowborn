@@ -49,7 +49,7 @@ JLowborn: Dict[str, List[str]] = {
 <h2>Let's Connect :coffee:</h2></a>
 <p>
   <a href="https://github.com/JLowborn"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width=40/></a>
-  <a href="https://www.linkedin.com/in/carlosjesus46/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width=40/></a>
+  <a href="https://www.linkedin.com/in/jlowborn/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width=40/></a>
 </p>
 
 <p align="center">
