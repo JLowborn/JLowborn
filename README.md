@@ -59,7 +59,7 @@ root     2477  6.9  4.2  2477 80085 ?  Sl   Aug13  9:11 /opt/icepick --target=te
     <img src="https://img.shields.io/badge/DARKNET_FEED-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </div>
-<img src="https://raw.githubusercontent.com/JLowborn/JLowborn/main/glitch-divider.svg" alt="Glitch Divider"/>
+<!-- <img src="https://raw.githubusercontent.com/JLowborn/JLowborn/main/glitch-divider.svg" alt="Glitch Divider"/> -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Hack&size=14&duration=3000&pause=500&color=00FFEE&center=true&vCenter=true&width=600&lines=%24+rm+-rf+%2F%E2%80%94NO_CARRIER;%24+exit+0xDEADBEEF;" alt="Terminal Exit" />
 </div>
