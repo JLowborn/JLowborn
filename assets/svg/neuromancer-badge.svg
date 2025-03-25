@@ -1,0 +1,8 @@
+<svg width="200" height="28" xmlns="http://www.w3.org/2000/svg">
+  <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#FF00AA"/>
+    <stop offset="100%" stop-color="#00FFEE"/>
+  </linearGradient>
+  <rect rx="4" width="100%" height="100%" fill="url(#grad)"/>
+  <text x="50%" y="18" font-family="Courier New" font-size="12" text-anchor="middle" fill="#000" font-weight="bold">CYBERDECK v3.2.1</text>
+</svg>

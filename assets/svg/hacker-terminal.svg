@@ -1,0 +1,16 @@
+<svg width="600" height="80" viewBox="0 0 600 80" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text { font-family: 'Courier New', monospace; font-size: 14px; fill: #00FFEE; }
+    .cursor { animation: blink 1s infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <defs>
+    <filter id="neon-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+  
+  <text x="10" y="30" class="text">[root@github-mainframe ~]# <tspan class="cursor">█</tspan></text>
+  <text x="10" y="60" class="text">> INITIATE ICEBREAKER PROTOCOL...</text>
+</svg>
