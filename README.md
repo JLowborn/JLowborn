@@ -3,7 +3,7 @@
 <!-- ▀░░░▀▀▀░▀▀▀░▀░▀░▀▀▀░▀░░░▀░▀░▀░▀░░░▀░▀░▀▀▀░▀▀░░▀▀▀ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Hack&size=28&duration=4000&pause=500&color=FF00AA&center=true&vCenter=true&width=600&lines=%24+sudo+chmod+777+%2FICEbreaker%2FJLowborn;%24+./EXECUTE--SHADOWRUN" alt="Neuromancer Terminal"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Hack&size=28&duration=4000&pause=500&color=FF00AA&center=true&vCenter=true&width=650&lines=%24+sudo+chmod+777+%2FICEbreaker%2FJLowborn;%24+./EXECUTE--SHADOWRUN" alt="Neuromancer Terminal"/>
 </div>
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/glitch.gif" width="100%"/>
